@@ -21,3 +21,5 @@
 ## Early prototype
 - [Numbers](https://youtu.be/ZtHNTbdkOEk)
 - [Letters and symbols](https://youtu.be/wfmpwjtGYvY)
+
+![Flip-dot display 3x5 - prototype](https://github.com/marcinsaj/flipdot-display-3x5/blob/main/assets/3x5-flipdot-display.jpg)
