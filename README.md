@@ -28,6 +28,7 @@
 - [One 3x5 Display - Letters and symbols](https://youtu.be/wfmpwjtGYvY)
 - [Two 3x5 Displays - Flip speed test](https://youtu.be/vr1gyDIqeqs)
 - [Four 3x5 Displays - Random effect](https://youtu.be/Jy9T-i64L70)
+- [Four 3x5 Displays - Clock test](https://youtu.be/jpoh_Vv7J4s)
 
 ![Flip-dot display 3x5 - prototype](https://github.com/marcinsaj/flipdot-display-3x5/blob/main/assets/3x5-flipdot-display.jpg)
 ![Flip-dot display 3x5 - prototype](https://github.com/marcinsaj/flipdot-display-3x5/blob/main/assets/random-effect-four-3x5-flipdot-displays.jpg)
