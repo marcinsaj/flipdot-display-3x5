@@ -34,3 +34,4 @@
 
 ![Flip-dot display 3x5 - prototype](https://github.com/marcinsaj/flipdot-display-3x5/blob/main/assets/3x5-flipdot-display.jpg)
 ![Flip-dot display 3x5 - prototype](https://github.com/marcinsaj/flipdot-display-3x5/blob/main/assets/random-effect-four-3x5-flipdot-displays.jpg)
+![Flip-dot display 3x5 - prototype](https://github.com/marcinsaj/flipdot-display-3x5/blob/main/assets/random-effect-six-3x5-flipdot-displays.webp)
