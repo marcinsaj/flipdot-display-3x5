@@ -30,6 +30,7 @@
 - [Random effect - 4 x 3x5 flip-dot displays](https://youtu.be/Jy9T-i64L70)
 - [Clock test - 4 x 3x5 flip-dot displays](https://youtu.be/jpoh_Vv7J4s)
 - [Snake animation](https://youtu.be/9QDuKVXyGsA)
+- [Random effect - Fisher–Yates algorithm - 6 x 3x5 flip-dot displays](https://youtu.be/tGIMT7LoRyA)
 
 ![Flip-dot display 3x5 - prototype](https://github.com/marcinsaj/flipdot-display-3x5/blob/main/assets/3x5-flipdot-display.jpg)
 ![Flip-dot display 3x5 - prototype](https://github.com/marcinsaj/flipdot-display-3x5/blob/main/assets/random-effect-four-3x5-flipdot-displays.jpg)
